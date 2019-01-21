@@ -1,0 +1,32 @@
+{
+  "name": "tuminext",
+  "version": "1.0.0",
+  "description": "tumisong official website react/next version",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swssr/tuminext.git"
+  },
+  "keywords": [
+    "music",
+    "dj",
+    "events"
+  ],
+  "author": "swssr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swssr/tuminext/issues"
+  },
+  "homepage": "https://github.com/swssr/tuminext#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
